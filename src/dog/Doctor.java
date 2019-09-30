@@ -1,5 +1,6 @@
 package dog;
 
+
 public class Doctor {
 	boolean present;
 	
