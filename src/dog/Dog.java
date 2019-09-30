@@ -55,7 +55,7 @@ public class Dog {
 		Random random = new Random();
 		public void cureDog2(){
 			
-			int chance = random.nextInt(70);
+			int chance = random.nextInt(80);
 			if (chance>=50) {
 				isPresent = true;
 				System.out.println("THe dog is cured.");
